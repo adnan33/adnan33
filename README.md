@@ -34,19 +34,19 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-* ###### 1. Deep Learning
+* #### 1. Deep Learning
 
 <img title="PyTorch" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png">|<img title="Pytorch Lightning" alt="Pytorch Lightning" width="40px" src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4">|<img title="Poutyne" alt="Poutyne" width="40px" src="https://raw.githubusercontent.com/GRAAL-Research/poutyne/master/docs/source/_static/logos/poutyne-dark.png">
 |--|--|--|
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="HuggingFace" alt="HuggingFace" width="40px" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4">
 
-* ###### 2. Machine Learning, Image Processing, And NLP
+* #### 2. Machine Learning, Image Processing, And NLP
 
 <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">|<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 |--|--|--|
 <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Albumentations" alt="Albumentations" width="40px" src="https://avatars.githubusercontent.com/u/57894582?s=200&v=4">|<img title="NLTK" alt="NLTK" width="40px" src="https://avatars.githubusercontent.com/u/124114?s=200&v=4">
 
-* ###### 3. Web
+* #### 3. Web
 
 <img title="FastAPI" alt="FastAPI" width="40px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">|<img title="Flask" alt="Flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">|<img title="Streamlit" alt="Streamlit" width="40px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4">
 |--|--|--|
