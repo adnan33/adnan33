@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Adnan Taufique</h1> 
 <br>
-<img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" alt ="GIF" align="right" width="250">
+<img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" alt ="GIF" align="right" width="410">
 <br>
 <h3 align="center">A Machine Learning engineer working on creating innovative solutions for interesting problems using machine learning and deep learning and deploying them. I'm looking to collaborate on interesting projects.</h3>.
 
