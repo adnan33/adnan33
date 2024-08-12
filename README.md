@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">A Machine Learning Engineer working on creating innovative solutions for interesting problems using machine learning and deep learning and deploying them. I'm looking to collaborate on interesting projects.</h3>.
 
-<!--- 🌱 I’m currently learning **GCP Vertex AI platform.** -->
+- 🌱 I’m currently learning **GCP Vertex AI platform.**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Research Efforts**.
 
@@ -58,7 +58,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 |--|--|--|
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Matlab" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
+<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Airlow" alt="Airflow" width="40px" src="https://github.com/apache/airflow/raw/19ebcac2395ef9a6b6ded3a2faa29dc960c1e635/docs/apache-airflow/img/logos/wordmark_1.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 
 
 **Databases**
