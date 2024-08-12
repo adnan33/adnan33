@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">A Machine Learning Engineer working on creating innovative solutions for interesting problems using machine learning and deep learning and deploying them. I'm looking to collaborate on interesting projects.</h3>.
 
-<!--- 🌱 I’m currently learning **Rust and ASR Algorithms.** -->
+<!--- 🌱 I’m currently learning **GCP Vertex AI platform.** -->
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Research Efforts**.
 
